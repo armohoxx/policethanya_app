@@ -1,6 +1,7 @@
 # policethanya_app
 
 My Graduation Project.
+---Flutter version 1.22.6---
 
 ## Getting Started
 
