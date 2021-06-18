@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012369913566",
+    "firebase_url": "https://policepatrolthanya-default-rtdb.firebaseio.com",
+    "project_id": "policepatrolthanya",
+    "storage_bucket": "policepatrolthanya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012369913566:android:8d13dc676dabacec96344f",
+        "android_client_info": {
+          "package_name": "com.armoho.policethanya_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012369913566-bk7rnb33s4ic4mmpldhlnd7t3tlt7j69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrDh64jZqUZPuV6Eu4xrfuZW__Z5P5tR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012369913566-bk7rnb33s4ic4mmpldhlnd7t3tlt7j69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
