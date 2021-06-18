@@ -1,6 +1,6 @@
 # policethanya_app
 
-A new Flutter project.
+My Graduation Project.
 
 ## Getting Started
 
